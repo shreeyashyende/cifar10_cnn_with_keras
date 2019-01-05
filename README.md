@@ -1,1 +1,3 @@
 # cifar10_cnn_with_keras
+
+### PREFERRED ENVIRONMENT --> JUPYTER NOTEBOOK
